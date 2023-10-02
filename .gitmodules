@@ -1,0 +1,4 @@
+[submodule "lsolares/afosa"]
+	path = lsolares/afosa
+	url = git@github.com:lsolares/afosa.git
+	branch = main
