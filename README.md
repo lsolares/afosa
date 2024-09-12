@@ -1,1 +1,1 @@
-# afosa git commit --allow-empty -m "Commit message"
+# afosa git commit --allow-empty -m "Commit message upgrade"
